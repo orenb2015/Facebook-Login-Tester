@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Enviroment>
+    
+   
+	<BrowserType>chrome</BrowserType>
+	
+	<URL>https://www.facebook.com/</URL>
+	<ChromeDrivePath>C:\SeleniumDrivers\chromedriver_win32\chromedriver.exe</ChromeDrivePath>
+		<FFDriverPath>C:\SeleniumDrivers\geckodriver-v0.20.0-win64\geckodriver.exe</FFDriverPath>
+	
+	<FFDriverPath>C:\SeleniumDrivers\geckodriver-v0.20.0-win64\geckodriver.exe</FFDriverPath>
+	<IEDrivePath></IEDrivePath>
+
+	<Firstname>moti</Firstname>
+	<Lastname>bar</Lastname>
+	<Email>moti@gmail.com</Email>
+	<Password>12345</Password>
+	<BirthdayDay>12</BirthdayDay>
+	<BirthdayMonth>5</BirthdayMonth>
+	<BirthdayYear>1979</BirthdayYear>
+
+
+	<ImagePath>c://TEST/SikuliImages/</ImagePath>
+
+	<!-- Report -->
+	<ReportFilePath>c://test/ExampleReports/</ReportFilePath>
+	<ReportFileName>TestReport_</ReportFileName>
+
+</Enviroment>
+
+
